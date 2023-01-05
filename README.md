@@ -6,7 +6,7 @@
 
 # MTA:SA RDX
 
-- this script display DX/GUI for all screen formats, where the way to use it is easy and you do not need practice to use it
+- This Script Display DX/GUI for All screen formats, Where the way to use it is easy and you do not need practice to use it
 - For more details, go to [MTA:SA Wiki](https://wiki.multitheftauto.com/wiki/Resource:RDX)
 
 # Requirement
